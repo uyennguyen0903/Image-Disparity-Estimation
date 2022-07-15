@@ -1,4 +1,4 @@
-# Steoreo-Matching
+# Stereo-Matching
 
 Stereo Matching is the process of recovering 3D structures of real world from 2D images. It has been widely used in areas such as autonomous driving, augmented reality and robotics navigation. 
 

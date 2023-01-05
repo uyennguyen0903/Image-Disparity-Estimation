@@ -52,5 +52,3 @@ Semi-global matching uses information from neighboring pixels in multiple direct
 ![Semi Global Block Matching](/images/SGBM.png)
 
 `python ./semi-global-block-matching/stereomatch.py left_image_path right_image_path`
-
-*For more details about these algorithms, please read the report written in French Stereo_Matching_French_Report.pdf. Sorry English speakers, the English version is not available at this moment :).*
